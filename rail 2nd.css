@@ -1,0 +1,34 @@
+body{
+    background-image: url(vandhe.jpg);
+ background-repeat: no-repeat;
+     background-size: contain;   /* shows full image without distortion */
+     background-position: center center;
+     background-color: black;  /* fills empty slides if aspect ratio differs */
+}
+body{ padding-top: 80px;
+    padding-bottom: 80px;
+    padding-right: 80px;
+    padding-left: 80px; background-repeat: no-repeat;
+     background-size: cover;
+     background-position: center;
+}
+.t{
+    width: 250px;
+    height: 380px;
+    background-image: linear-gradient(blueviolet, beige );
+   position: absolute;
+   top: 30px;
+   left: 870px;
+   border-radius: 10px;
+   padding: 25px;
+}
+.k{
+    font-style: initial;
+    font-size: x-large;
+    padding: 100px;
+    width: 350px;
+    height: 300pxs;
+}
+.q{
+    color: red;
+}
